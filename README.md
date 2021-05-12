@@ -1,4 +1,4 @@
-### Hi there 👋
+### Åke Hedman, Grodans Paradis AB, Sweden 👋
 
 <!--
 **grodansparadis/grodansparadis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+-----
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=grodansparadis&count_private=true&show_icons=true&layout=compact" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grodansparadis&count_private=true&langs_count=7&hide=html&exclude_repo=alarmclock-esp,aosp-calculator,sway,ESP8266_RTOS_SDK,DefinitelyTyped,laboratory,dotfiles&layout=compact" />
+
+----
+
+
+#### ✨ My Swedish blog: [https://www.akehedman.se](https://www.akehedman.se)
+
+#### ✨ VSCP project blog: [https://www.grodansparadis.com/wordpress](https://www.grodansparadis.com/wordpress)
+
+#### ✨ VSCP project home: [https://www.vscp.org](https://www.vscp.org)
+
+#### ✨ Grodans Paradis AB home: [https://www.grodansparadis.com](https://www.grodansparadis.com)
+
