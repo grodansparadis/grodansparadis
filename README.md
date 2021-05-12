@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 -----
 
-!(VSCP Logo)[https://vscp.org/images/logo.png]
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=grodansparadis&count_private=true&show_icons=true&layout=compact" />
 
 ----
