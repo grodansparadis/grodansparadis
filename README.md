@@ -15,15 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img align="center" src="https://vscp.org/images/logo.png" />
+
 -----
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=grodansparadis&count_private=true&show_icons=true&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=grodansparadis&count_private=true&show_icons=true" />
 
 ----
 
-
-#### ✨ My Swedish blog: [https://www.akehedman.se](https://www.akehedman.se)
-#### ✨ VSCP project blog: [https://www.grodansparadis.com/wordpress](https://www.grodansparadis.com/wordpress)
 #### ✨ VSCP project home: [https://www.vscp.org](https://www.vscp.org)
 #### ✨ Grodans Paradis AB home: [https://www.grodansparadis.com](https://www.grodansparadis.com)
+#### ✨ VSCP project blog: [https://www.grodansparadis.com/wordpress](https://www.grodansparadis.com/wordpress)
+
+#### ✨ My Swedish blog: [https://www.akehedman.se](https://www.akehedman.se)
+
+
+
 
