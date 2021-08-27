@@ -23,10 +23,7 @@ Here are some ideas to get you started:
 
 
 #### ✨ My Swedish blog: [https://www.akehedman.se](https://www.akehedman.se)
-
 #### ✨ VSCP project blog: [https://www.grodansparadis.com/wordpress](https://www.grodansparadis.com/wordpress)
-
 #### ✨ VSCP project home: [https://www.vscp.org](https://www.vscp.org)
-
 #### ✨ Grodans Paradis AB home: [https://www.grodansparadis.com](https://www.grodansparadis.com)
 
