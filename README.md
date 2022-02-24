@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://vscp.org/images/logo.png" width="300"/>
+<img align="center" src="https://vscp.org/images/freedom.png" width="500"/>
 
 -----
 
