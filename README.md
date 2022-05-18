@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 #### ✨ VSCP project blog: [https://www.grodansparadis.com/wordpress](https://www.grodansparadis.com/wordpress)
 
 #### ✨ My Swedish blog: [https://www.akehedman.se](https://www.akehedman.se)
+#### ✨ My "music": [Spotify](https://open.spotify.com/artist/1McJlk2r0wjhhl1ZOvoMyg?si=itlR37ZETnSIrTKmuEL8bw)
 
 
 
