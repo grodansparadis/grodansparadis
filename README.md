@@ -15,14 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://vscp.org/images/freedom.png" width="500"/>
-
------
-
-
-
-----
-
 #### ✨ VSCP project home: [https://www.vscp.org](https://www.vscp.org)
 #### ✨ Grodans Paradis AB home: [https://www.grodansparadis.com](https://www.grodansparadis.com)
 #### ✨ VSCP project blog: [https://www.grodansparadis.com/wordpress](https://www.grodansparadis.com/wordpress)
