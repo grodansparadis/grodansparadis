@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### ✨ VSCP project home: [https://www.vscp.org](https://www.vscp.org)
-#### ✨ Grodans Paradis AB home: [https://www.grodansparadis.com](https://www.grodansparadis.com)
-#### ✨ VSCP project blog: [https://www.grodansparadis.com/wordpress](https://www.grodansparadis.com/wordpress)
+* ✨ VSCP project home: [https://www.vscp.org](https://www.vscp.org)
+* ✨ Grodans Paradis AB home: [https://www.grodansparadis.com](https://www.grodansparadis.com)
+* ✨ VSCP project blog: [https://www.grodansparadis.com/wordpress](https://www.grodansparadis.com/wordpress)
 
-#### ✨ My Swedish blog: [https://www.akehedman.se](https://www.akehedman.se)
-#### ✨ My "music": [Spotify](https://open.spotify.com/artist/1McJlk2r0wjhhl1ZOvoMyg?si=itlR37ZETnSIrTKmuEL8bw)
+* ✨ My Swedish blog: [https://www.akehedman.se](https://www.akehedman.se)
+* ✨ My "music": [Spotify](https://open.spotify.com/artist/1McJlk2r0wjhhl1ZOvoMyg?si=itlR37ZETnSIrTKmuEL8bw)
 
 
 
